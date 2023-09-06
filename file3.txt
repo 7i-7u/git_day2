@@ -1,2 +1,4 @@
 in C++
 cout<<" Hello world";
+in python
+print ("Hello world")
